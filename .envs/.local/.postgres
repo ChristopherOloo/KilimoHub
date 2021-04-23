@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=kilimohub
+POSTGRES_USER=VOCCipgqapTloiHXuwrMkdOZOmmElrCU
+POSTGRES_PASSWORD=TJkm0j8nXptW2YHeL86Z5jylw8yJ70TyYSCKu1f1qFRUGRjLWHRuTIITOllY5NNI
